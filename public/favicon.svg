@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Wedding monogram">
+  <rect width="128" height="128" rx="20" fill="#f5f1ea"/>
+  <path d="M42 30h18.5L64 53.5 67.5 30H86l-13 68H59L42 30Z" fill="#8a6a45"/>
+  <path d="M17 88c10-19 18-28 30-36 13-8 25-9 34-8 2 0 3 1 3 3v18c0 3-2 5-5 5H70.5c-6 0-9 3-9 8v10.5c0 4 3 7 7 7h22.5c3 0 5 2 5 5v17H54.5C35.5 104 26 98 17 88Z" fill="#b69d77"/>
+  <path d="M88 35h20v18H88zm0 22h20v18H88z" fill="#d9c7a4"/>
+</svg>

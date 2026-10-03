@@ -1,0 +1,75 @@
+:root {
+  font-family: 'DM Sans', 'Helvetica Neue', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #292522;
+  background: #f4efe7;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --font-display: 'Bodoni Moda', 'Times New Roman', serif;
+  --font-body: 'DM Sans', 'Helvetica Neue', sans-serif;
+  --ink: #292522;
+  --paper: #f4efe7;
+  --paper-deep: #e8ded0;
+  --gold: #b89b72;
+  --rose: #a97978;
+  --burgundy: #5b3035;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body,
+#root {
+  max-width: 100%;
+  overflow-x: clip;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: linear-gradient(180deg, #f4efe7 0%, #efe7dc 100%);
+  color: var(--ink);
+}
+
+::selection {
+  color: #fffaf4;
+  background: #5b3035;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+blockquote {
+  margin-top: 0;
+}
